@@ -1,0 +1,18 @@
+.dashContainer{
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    flex-wrap: wrap;
+    background: lavender;
+    padding: 5px 10px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXEsEMMwuy8y5J56AtJ_Kf2LYmoou-pQEs3ueIsBbdQg&s);
+}
+
+.dashCardContainer{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    gap: 5px;
+    width : 300px;
+}
